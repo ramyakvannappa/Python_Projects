@@ -1,0 +1,7 @@
+This is the Rock Paper Scissors game played bewteen the user and the computer. 
+Based on the user input and the random input gennerated for the computer and the rules of the game, the winner is picked. 
+
+Below are the rules: 
+If you choose Rock, you will win against Scissors
+If you choose Scissors, you will win against Paper
+If you choose Paper, you will win against Rock 
