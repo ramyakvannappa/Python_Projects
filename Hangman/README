@@ -3,4 +3,4 @@ https://en.wikipedia.org/wiki/Hangman_(game)
 
 The same game is being replicated here in Python. The words to be selected from is embedded in the code. The computer randomly choses a word from that list. The user tries to guess the word that is randomly chosen by the computer. The user is given a maximum of 6 lives to guess the letters in the word. 
 
-Source: This project is a part of my 100 days of learning Python - Udemy 
+Source: 100 Days of Code: The Complete Python Pro Bootcamp for 2022 - Udemy 
