@@ -1,0 +1,1 @@
+This is a blind auction program. The user name and bidding price are taken as inputs. If there are additional bidders, then the output screen is cleared and the additional bidder details are taken. Once there are no more bidders, the program picks up the higgest bidder's name and the bidding amount
